@@ -1,20 +1,23 @@
-# my_webview_app
-<<<<<<< HEAD
+🌀 Weather App
+🌤️ Description
+A simple and elegant Flutter-based weather app that displays real-time weather information like temperature, humidity, and condition using OpenWeatherMap API.
 
-A new Flutter project.
+📱 Features
+🌦️ Current weather updates
 
-## Getting Started
+📍 Location-based forecast
 
-This project is a starting point for a Flutter application.
+🎨 Clean, minimal UI
 
-A few resources to get you started if this is your first Flutter project:
+🔄 Refresh support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+☁️ API integrated (OpenWeatherMap)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-A simple and elegant Flutter-based weather app that provides real-time weather updates based on your location. Displays temperature, humidity, wind speed, and conditions using the OpenWeatherMap API with a clean user interface.
->>>>>>> 77e84ab52a8af675aeaf3f6a3418bcfaf92ff588
+git clone https://github.com/yourusername/weather_app.git
+cd weather_app
+flutter pub get
+flutter run
+
+👤 Author
+Arun Kumar
+GitHub | LinkedIn
