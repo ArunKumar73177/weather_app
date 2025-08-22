@@ -13,7 +13,7 @@ A simple and elegant Flutter-based weather app that displays real-time weather i
 
 ☁️ API integrated (OpenWeatherMap)
 
-git clone https://github.com/yourusername/weather_app.git
+git clone https://github.com/Arunkumar73177/weather_app.git
 cd weather_app
 flutter pub get
 flutter run
